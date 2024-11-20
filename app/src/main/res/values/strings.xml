@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location_permission_not_granted">Location permission not granted</string>
+    <string name="weather_app">Weather App</string>
+    <string name="enter_city_name">Enter City, State, Country</string>
+    <string name="use_current_location">Use Current Location</string>
+    <string name="failed_to_get_current_location">Failed to get current location</string>
+    <string name="unable_to_retrieve_location">Unable to retrieve location</string>
+</resources>
